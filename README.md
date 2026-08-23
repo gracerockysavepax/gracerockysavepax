@@ -1,7 +1,8 @@
-## hewwo!! :3
+
 
         
-<img width="540" height="450" alt="hiholland" src="https://github.com/user-attachments/assets/5770be87-33c5-4b5e-a931-67baf88de6b9" />
+<img width="540" height="540" alt="happyhappylarsy" src="https://github.com/user-attachments/assets/fc484f1e-d60e-42d1-bc1f-ac46c119d9c1" />
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
