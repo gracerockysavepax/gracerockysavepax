@@ -8,7 +8,8 @@
    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-<img width="749" height="226" alt="Screenshot_2026-08-23_200209-removebg-preview" src="https://github.com/user-attachments/assets/9ac74a6e-4387-439a-a456-8a0bb72d16d0" />
+<img width="749" height="226" alt="Screenshot 2026-08-23 200209" src="https://github.com/user-attachments/assets/749a66e8-5f82-40c5-a67b-ed71ba6a047f" />
+
 
  
 <!--
