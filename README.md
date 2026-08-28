@@ -1,6 +1,6 @@
 <p align="center"><img width="540" height="450" alt="hiholland" src="https://github.com/user-attachments/assets/9278ae56-c649-4dbe-be67-21638cd4122b" /></p>
 
-[cool awesome amaze amaze amaze brother kenzo ilysm /p](https://github.com/thomassheIby)
+[cool awesome amaze amaze amaze brother kenzo ilysm](https://github.com/thomassheIby)
         
 
 
