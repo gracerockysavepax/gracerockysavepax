@@ -4,7 +4,7 @@
         
 <p align="center">
   <a href="https://guns.lol/paxeroni">guns</a> | 
-  <a href=""></a> 
+  <a href="https://paxeroni.straw.page/">straw</a>  |
   <a href="https://gracerockysavepax.atabook.org/">ata</a>
 </p>
 
