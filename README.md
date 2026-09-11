@@ -1,6 +1,6 @@
 <p align="center"><img width="540" height="450" alt="hiholland" src="https://github.com/user-attachments/assets/9278ae56-c649-4dbe-be67-21638cd4122b" /></p>
  
-[cool awesome amaze amaze amaze brother kenzo ilysm](https://github.com/thomassheIby)
+[kenzo ilysm](https://github.com/thomassheIby)
         
 <p align="center">
   <a href="https://guns.lol/paxeroni">guns</a> | 
@@ -14,14 +14,3 @@
 
 <p align="center">pls c+h i love it sosososososososo much 💗</p>
 
-
-<p align="center">my strawpage is still a wip but i'll add it when im done</p>
-
- 
-<!--
-**gracerockysavepax/gracerockysavepax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--
--->
