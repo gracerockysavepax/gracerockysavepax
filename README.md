@@ -1,6 +1,6 @@
 <p align="center"><img width="540" height="450" alt="hiholland" src="https://github.com/user-attachments/assets/9278ae56-c649-4dbe-be67-21638cd4122b" /></p>
  
-[kenzo ilysm](https://github.com/thomassheIby)
+[the billy to my stu <3333 ilym!!](https://github.com/thomassheIby)
         
 <p align="center">
   <a href="https://guns.lol/paxeroni">guns</a> | 
