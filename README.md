@@ -20,12 +20,13 @@ $${\color{lightpink} "Who \space else \space would \space I \space be \space tal
 <div align="center">
  
 [<img width="65" height="55" alt="b55b2d904c58b4b2d6583ebc0558a0cb-ezgif com-added-text" src="https://github.com/user-attachments/assets/0aeebc7d-ee42-479b-a52d-0097779d370a" />
-](https://guns.lol/paxeroni/)
+](https://guns.lol/paxeroni/)[<img width="65" height="55" alt="fb034e87fe7c8e339ddbbc9e2b4b19f4-ezgif com-added-text (1)" src="https://github.com/user-attachments/assets/6d38873d-ce0b-442c-ae2f-af8a87e6438b" />](https://paxeroni.straw.page/)
+
 </div>
 
 
 <p align="center">
-  <a href="https://paxeroni.straw.page/">straw</a>  |
+  <a href="">straw</a>  |
   <a href="https://gracerockysavepax.atabook.org/">ata</a>
 </p>
 
