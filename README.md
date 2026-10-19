@@ -26,7 +26,6 @@ $${\color{lightpink} "Who \space else \space would \space I \space be \space tal
 
 
 <p align="center">
-  <a href="">straw</a>  |
   <a href="https://gracerockysavepax.atabook.org/">ata</a>
 </p>
 
