@@ -4,7 +4,7 @@
  
 [the billy to my stu <3333 ilym!!](https://github.com/fruitsaIad)
 
-$${\color{lightblue} "I \space take \space it \space you're \space talking \space to \space me \space now" }$$
+$${\color{lightblue} "I \space take \space it \space you're \space talking \space to \space me \space now." }$$
 $${\color{lightpink} "Who \space else \space would \space I \space be \space talking \space to?"}$$
 <p align="center">
   <a href="https://guns.lol/paxeroni">guns</a> | 
