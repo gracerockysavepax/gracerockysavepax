@@ -9,7 +9,7 @@ $${\color{lightpink} "Who \space else \space would \space I \space be \space tal
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4EDF7&width=435&lines=Dear%2C+I+fear+we're+facing+a+problem;You+love+me+no+longer%2C+I+know+and;Maybe+there+is+nothing+that+I+can+do;To+make+you+do;Mama+tells+me+I+shouldn't+bother;That+I+ought+just+stick+to+another+man;A+man+that+surely+deserves+me;But+I+think+you+do;So+I+cry%2C+and+I+pray%2C+and+I+beg;Love+me%2C+love+me;Say+that+you+love+me;Fool+me%2C+fool+me;Go+on+and+fool+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Emily's+Candy&pause=1000&color=B4EDF7&width=435&lines=Dear%2C+I+fear+we're+facing+a+problem;You+love+me+no+longer%2C+I+know+and;Maybe+there+is+nothing+that+I+can+do;To+make+you+do;Mama+tells+me+I+shouldn't+bother;That+I+ought+just+stick+to+another+man;A+man+that+surely+deserves+me;But+I+think+you+do;So+I+cry%2C+and+I+pray%2C+and+I+beg;Love+me%2C+love+me;Say+that+you+love+me;Fool+me%2C+fool+me;Go+on+and+fool+me)](https://git.io/typing-svg)
 
 </div>
 
