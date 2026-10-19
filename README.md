@@ -17,6 +17,7 @@ $${\color{lightpink} "Who \space else \space would \space I \space be \space tal
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8dbed3&interchange=true&profanity=false&hide_remaster=false&bar_color=c4e7ed&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 <p align="center">
+ 
 [<img alt="<img width="65" height="55" alt="b55b2d904c58b4b2d6583ebc0558a0cb" src="https://github.com/user-attachments/assets/3be3509c-5d82-400c-be4f-3c9503797c7b">](https://guns.lol/paxeroni/)
  
   <a href="https://guns.lol/paxeroni">guns</a> | 
