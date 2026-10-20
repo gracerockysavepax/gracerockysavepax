@@ -32,7 +32,7 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
       <td width="30%" valign="top" align="left">
         <h3> $${\color{lightblue} DNI/IWC/INT}$$ </h3>
 <details>
-  <summary>$${\color{lightred}DNI}$$</summary>
+  <summary>$${\color{red}DNI}$$</summary>
  
 - homophobes
 - transphobes
