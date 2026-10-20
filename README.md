@@ -9,7 +9,8 @@ $${\color{lightpink} "Who \space else \space would \space I \space be \space tal
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Emily's+Candy&size=26&pause=1000&color=B4EDF7&width=435&lines=Dear%2C+I+fear+we're+facing+a+problem;You+love+me+no+longer%2C+I+know+and;Maybe+there+is+nothing+that+I+can+do;To+make+you+do;Mama+tells+me+I+shouldn't+bother;That+I+ought+just+stick+to+another+man;A+man+that+surely+deserves+me;But+I+think+you+do;So+I+cry%2C+and+I+pray%2C+and+I+beg;Love+me%2C+love+me;Say+that+you+love+me;Fool+me%2C+fool+me;Go+on+and+fool+me)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Emily's+Candy&pause=10&color=B6D1F7&width=435&lines=When+the+lights+go+out%2C+will+you+take+me+with+you;Carry+all+this+broken+bone+through+six+years+down;In+crowded+rooms+and+highways+I+call+home%3F;Is+something+I+can't+know+'til+now;'Til+you+picked+me+off+the+ground;With+a+brick+in-hand%2C+your+lip-gloss+smile;Your+scraped-up+knees%2C+and;If+you+stay%2C+I+would+even+wait+all+night;Or+until+my+heart+explodes;How+long+until+we;Find+our+way+in+the+dark+and+out+of+harm%3F;You+can+run+away+with+me+anytime+you+want)](https://git.io/typing-svg)
+
 
 </div>
 <div align="center">
