@@ -23,6 +23,40 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
 
 </div>
 
+
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <!-- LEFT COLUMN: TEXT & LINKS -->
+      <td width="30%" valign="top" align="left">
+        <h3> $${\color{lightblue} DNI/IWC/INT}$$ </h3>
+<details>
+  <summary>$${\color{lightred}DNI}$$</summary>
+ 
+- homophobes
+- transphobes
+- islamophobes
+- xenophobes
+- racist
+- sexist
+- ableist
+- radqueer
+</details>
+
+     
+  </table>
+  
+  <!-- OPTIONAL FOOTER DIVIDER -->
+  <p>︶⊹︶︶୨୧︶︶⊹︶</p>
+</div>
+
+
+
+
+
+
+
 <div align="center">
  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8dbed3&interchange=true&profanity=false&hide_remaster=false&bar_color=c4e7ed&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
