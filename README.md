@@ -42,6 +42,15 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
 - sexist
 - ableist
 - radqueer
+- if you have sys in your DNI
+- if you have harassed / are currently harassing my mutuals
+</details>
+<details>
+  <summary>$${\color{orange}IWC}$$</summary>
+ 
+- TADC fandom
+- FOB bandom
+- LP bandom (unless friends)
 </details>
 
      
