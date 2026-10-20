@@ -42,6 +42,7 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
 - sexist
 - ableist
 - radqueer
+- wayc*st shippers
 - if you have sys in your DNI
 - if you have harassed / are currently harassing my mutuals
 </details>
