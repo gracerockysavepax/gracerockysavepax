@@ -52,6 +52,18 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
 - FOB bandom
 - LP bandom (unless friends)
 </details>
+<details>
+  <summary>$${\color{lightgreen}INT}$$</summary>
+
+ - if you're friends with any of my moots
+ - Marvel fandom
+ - DC fandom (just don't be weird)
+ - Resident Evil fandom (plsplspls INT okok)
+ - Cillian Murphy fans
+ - RYGOSCU fans
+ - TF fans
+ - INT freely if we share ANY interests!!
+</details>
 
      
   </table>
