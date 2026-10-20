@@ -49,7 +49,7 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
   <summary>$${\color{orange}IWC}$$</summary>
  
 - TADC fandom
-- FOB bandom
+- FOB bandom (unless friends)
 - LP bandom (unless friends)
 </details>
 <details>
