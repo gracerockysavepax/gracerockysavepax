@@ -13,6 +13,7 @@ $${\color{lightpink} "Who \space else \space would \space I \space be \space tal
 
 </div>
 
+$${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-rewards](https://github.com/Ponytowns-rewards)
 <div align="center">
  
 [<img width="65" height="55" alt="b55b2d904c58b4b2d6583ebc0558a0cb-ezgif com-added-text" src="https://github.com/user-attachments/assets/0aeebc7d-ee42-479b-a52d-0097779d370a" />
@@ -25,7 +26,7 @@ $${\color{lightpink} "Who \space else \space would \space I \space be \space tal
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8dbed3&interchange=true&profanity=false&hide_remaster=false&bar_color=c4e7ed&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-$${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-rewards](https://github.com/Ponytowns-rewards)
+
 
 <p align="center">
 
