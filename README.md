@@ -12,8 +12,10 @@ $${\color{lightpink} "Who \space else \space would \space I \space be \space tal
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Emily's+Candy&size=26&pause=1000&color=B4EDF7&width=435&lines=Dear%2C+I+fear+we're+facing+a+problem;You+love+me+no+longer%2C+I+know+and;Maybe+there+is+nothing+that+I+can+do;To+make+you+do;Mama+tells+me+I+shouldn't+bother;That+I+ought+just+stick+to+another+man;A+man+that+surely+deserves+me;But+I+think+you+do;So+I+cry%2C+and+I+pray%2C+and+I+beg;Love+me%2C+love+me;Say+that+you+love+me;Fool+me%2C+fool+me;Go+on+and+fool+me)](https://git.io/typing-svg)
 
 </div>
+<div align="center">
 
 $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-rewards](https://github.com/Ponytowns-rewards)
+</div>
 <div align="center">
  
 [<img width="65" height="55" alt="b55b2d904c58b4b2d6583ebc0558a0cb-ezgif com-added-text" src="https://github.com/user-attachments/assets/0aeebc7d-ee42-479b-a52d-0097779d370a" />
