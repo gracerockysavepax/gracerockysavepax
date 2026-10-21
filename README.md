@@ -53,6 +53,7 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
 - TADC fandom
 - FOB bandom (unless friends)
 - LP bandom (unless friends)
+- -14 and 21+
 </details>
 <details>
   <summary>$${\color{lightgreen}INT}$$</summary>
