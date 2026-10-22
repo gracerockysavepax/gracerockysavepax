@@ -30,6 +30,39 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
       <!-- LEFT COLUMN: TEXT & LINKS -->
+      <td width="30%" valign="top" align="center">
+        <h3> $${\color{lightblue} crispy \space fries}$$ </h3>
+
+[@dolli3ciful](https://github.com/dolli3ciful)
+[@crumbbii](https://github.com/crumbbii)
+[@BluuJayymes](https://github.com/BluuJayymes)
+[@MaverickHunter-X](https://github.com/MaverickHunter-X)
+[@Crowhearted](https://github.com/Crowhearted)
+[@ilovegraysons](https://github.com/ilovegraysons)
+[@TabbyCatCollective](https://github.com/TabbyCatCollective)
+[@M3gitsune](https://github.com/M3gitsune)
+[@caswashere](https://github.com/caswashere)
+[@DivisionOfSecurityOperations](https://github.com/DivisionOfSecurityOperations)
+[@Bryan-Hodukavich](https://github.com/Bryan-Hodukavich)
+[@bannysuperman](https://github.com/bannysuperman)
+[@stevengrants](https://github.com/stevengrants)
+[@cashreggister](https://github.com/cashreggister)
+[@wes-borland](https://github.com/wes-borland)
+[@frontalllobe](https://github.com/frontalllobe)
+[@spideywebs](https://github.com/spideywebs)
+
+$${\color{lightblue} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
+
+</details>
+
+     
+  </table>
+  
+  <!-- OPTIONAL FOOTER DIVIDER -->
+  <p>︶⊹︶︶୨୧︶︶⊹︶</p> <div align="center">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <!-- LEFT COLUMN: TEXT & LINKS -->
       <td width="30%" valign="top" align="left">
         <h3> $${\color{lightblue} DNI/IWC/INT}$$ </h3>
 <details>
@@ -74,11 +107,6 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
   <!-- OPTIONAL FOOTER DIVIDER -->
   <p>︶⊹︶︶୨୧︶︶⊹︶</p>
 </div>
-
-
-
-
-
 
 
 <div align="center">
