@@ -50,6 +50,7 @@ $${\color{lightblue} pt's \space Jonathan \space Crane \space ty}$$[@Ponytowns-r
 [@wes-borland](https://github.com/wes-borland)
 [@frontalllobe](https://github.com/frontalllobe)
 [@spideywebs](https://github.com/spideywebs)
+[@leon-kennedih](https://github.com/leon-kennedih)
 
 $${\color{lightblue} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
 
